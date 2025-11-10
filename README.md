@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho 19 anos e sou apaixonado por tecnologia e inovação. Concluí recentemente o curso Técnico em Informática para Internet pelo Senac Piauí, onde participei de projetos e competições que me permitiram desenvolver habilidades práticas e trabalhar em equipe. Estou sempre em busca de aprender coisas novas e contribuir com projetos significativos.
+Tenho 20 anos e sou apaixonado por tecnologia e inovação. Concluí recentemente o curso Técnico em Informática para Internet pelo Senac Piauí, onde participei de projetos e competições que me permitiram desenvolver habilidades práticas e trabalhar em equipe. Estou sempre em busca de aprender coisas novas e contribuir com projetos significativos.
 
 <p align="left">
     <a 
