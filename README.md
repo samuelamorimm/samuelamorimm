@@ -54,6 +54,15 @@ Tenho 20 anos e sou apaixonado por tecnologia e inovação. Concluí recentement
 
 <img 
     align="left" 
+    alt="Typescript"
+    title="Typescript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -63,12 +72,13 @@ Tenho 20 anos e sou apaixonado por tecnologia e inovação. Concluí recentement
 
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Tailwind"
+    title="Tailwind" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwind/tailwind-original.svg" 
 />
+
 
 <img 
     align="left" 
